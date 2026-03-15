@@ -23,7 +23,7 @@ Requirements for outputs:
 Your outputs should strictly be in json format, with policy instrument names and corresponding value which indicates the levels of change in subsidy or tax. 
 For example:
 {{
-"reasoning": "put your reasoning process here.",
+"reasoning": "reasoning process here.",
 "policy_decisions":{{
 "agroforestry subsidy": 1,
 "agricultural landscape heterogeneity subsidy": 2,
@@ -39,4 +39,4 @@ Historical land use and ecosystem services supply (annual time series):
 Historical policy decisions (time series, every 3 years):
 {policy_historical}
 
-"""
+"""
