@@ -15,6 +15,24 @@ In this simulation, the LLM acts as a policymaker who receives historical data o
 
 1. **Clone or Download** the repository to your local machine.
 
+2. **Create a Virtual Environment (venv)**
+   Open a terminal in the project folde and run:
+   ```
+   python -m venv myenv
+   ```
+   You can replace 'myenv' with the your desired venv name. Then, activate the venv by running:
+   On macOS / Linux:
+   ```
+   source myenv/bin/activate
+   ```
+   On Windows (Command Prompt):
+   ```
+   myenv\Scripts\activate
+   ```
+   On Windows (PowerShell):
+   ```
+   myenv\Scripts\Activate.ps1
+   ```
 2. **Install Dependencies**:
    Open a terminal in the root directory (where `requirements.txt` is located) and run:
    ```bash
