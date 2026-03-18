@@ -21,6 +21,7 @@ In this simulation, the LLM acts as a policymaker who receives historical data o
    python -m venv myenv
    ```
    You can replace 'myenv' with the your desired venv name. Then, activate the venv by running:
+   
    On macOS / Linux:
    ```
    source myenv/bin/activate
